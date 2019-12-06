@@ -44,8 +44,10 @@
     }
     ```
 2. 使指针旋转轴与表盘中心重合
+
     为每个指针设置`margin-top: -height/2`（指针的宽度在本节中由div的height表现）。
 3. deg=90时指针逆时针旋转导致闪烁的解决
+
     **方法：** 在这个特殊点更改指针的`transition`使该逆时针旋转瞬间完成。
     ```javascript
     if (secondsDegrees === 90) {
