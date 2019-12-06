@@ -15,3 +15,4 @@ No. | Guide | Demo
 --- | --- | ---
 1 | [JavaScript Drum Kit](https://github.com/wyx8267/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit) | [原生JS模拟敲鼓效果](https://wyx8267.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/)
 2 | [JS and CSS Clock](https://github.com/wyx8267/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock) | [原生JS+CSS时钟](https://wyx8267.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)
+3 | [CSS Variables](https://github.com/wyx8267/JavaScript30/tree/master/03%20-%20CSS%20Variables) | [拖动控制CSS变量](https://wyx8267.github.io/JavaScript30/03%20-%20CSS%20Variables/)
