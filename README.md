@@ -19,3 +19,4 @@ No. | Guide | Demo
 4 | [Array Cardio Day 1](https://github.com/wyx8267/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201) | [数组基本操作示例一](https://wyx8267.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
 5 | [Flex Panel Gallery](https://github.com/wyx8267/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery) | [伸缩图片墙](https://wyx8267.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
 6 | [Type Ahead](https://github.com/wyx8267/JavaScript30/tree/master/06%20-%20Type%20Ahead) | [快速匹配地名](https://wyx8267.github.io/JavaScript30/06%20-%20Type%20Ahead/)
+7 | [Array Cardio Day 2](https://github.com/wyx8267/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202) | [数组基本操作示例二](https://wyx8267.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
