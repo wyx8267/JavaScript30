@@ -21,3 +21,4 @@ No. | Guide | Demo
 6 | [Type Ahead](https://github.com/wyx8267/JavaScript30/tree/master/06%20-%20Type%20Ahead) | [快速匹配地名](https://wyx8267.github.io/JavaScript30/06%20-%20Type%20Ahead/)
 7 | [Array Cardio Day 2](https://github.com/wyx8267/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202) | [数组基本操作示例二](https://wyx8267.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
 8 | [Fun with HTML5 Canvas](https://github.com/wyx8267/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) | [彩虹画笔](https://wyx8267.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
+9 | [14 Must Know Dev Tool Tricks](https://github.com/wyx8267/JavaScript30/tree/master/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks) | [调试技巧](https://wyx8267.github.io/JavaScript30/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks/)
