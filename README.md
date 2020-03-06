@@ -22,3 +22,4 @@ No. | Guide | Demo
 7 | [Array Cardio Day 2](https://github.com/wyx8267/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202) | [数组基本操作示例二](https://wyx8267.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
 8 | [Fun with HTML5 Canvas](https://github.com/wyx8267/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas) | [彩虹画笔](https://wyx8267.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 9 | [14 Must Know Dev Tool Tricks](https://github.com/wyx8267/JavaScript30/tree/master/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks) | [调试技巧](https://wyx8267.github.io/JavaScript30/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks/)
+10 | [Hold Shift to Check Multiple Checkboxes](https://github.com/wyx8267/JavaScript30/tree/master/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes) | [](https://wyx8267.github.io/JavaScript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/)
