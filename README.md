@@ -24,3 +24,4 @@ No. | Guide | Demo
 9 | [14 Must Know Dev Tool Tricks](https://github.com/wyx8267/JavaScript30/tree/master/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks) | [调试技巧](https://wyx8267.github.io/JavaScript30/09%20-%2014%20Must%20Know%20Dev%20Tool%20Tricks/)
 10 | [Hold Shift to Check Multiple Checkboxes](https://github.com/wyx8267/JavaScript30/tree/master/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes) | [复选操作](https://wyx8267.github.io/JavaScript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/)
 11 | [Custom Video Player](https://github.com/wyx8267/JavaScript30/tree/master/11%20-Custom%20Video%20Player) | [视频播放器](https://wyx8267.github.io/JavaScript30/11%20-Custom%20Video%20Player/)
+12 | [Key Sequence Detection](https://github.com/wyx8267/JavaScript30/tree/master/12%20-Key%20Sequence%20Detection) | [键盘输入序列验证](https://wyx8267.github.io/JavaScript30/12%20-Key%20Sequence%20Detection/)
