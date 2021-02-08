@@ -25,4 +25,5 @@ No. | Guide | Demo
 10 | [Hold Shift to Check Multiple Checkboxes](https://github.com/wyx8267/JavaScript30/tree/master/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes) | [复选操作](https://wyx8267.github.io/JavaScript30/10%20-%20Hold%20Shift%20to%20Check%20Multiple%20Checkboxes/)
 11 | [Custom Video Player](https://github.com/wyx8267/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player) | [视频播放器](https://wyx8267.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
 12 | [Key Sequence Detection](https://github.com/wyx8267/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection) | [键盘输入序列验证](https://wyx8267.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
-12 | [Slide in on Scroll](https://github.com/wyx8267/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll/) | [图片随屏幕滚动滑入滑出](https://wyx8267.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
+13 | [Slide in on Scroll](https://github.com/wyx8267/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll/) | [图片随屏幕滚动滑入滑出](https://wyx8267.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
+14 | [JavaScript References VS Copying](https://github.com/wyx8267/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying/) | [引用与拷贝](https://wyx8267.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
